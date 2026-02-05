@@ -3,7 +3,7 @@
 
 https://www.youtube.com/watch?v=KuM6OtuaYRs&list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr
 
-## Articles I read
+## Useful articles
 
 - [Hibernate Tutorial
 ](https://www.geeksforgeeks.org/java/hibernate-tutorial/)
