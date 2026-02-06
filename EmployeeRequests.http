@@ -9,7 +9,7 @@ Content-Type: application/json
 }
 
 ### GET Employee by id
-GET http://localhost:8080/api/employees/2
+GET http://localhost:8080/api/employees/5
 
 
 ### GET all Employee
@@ -22,5 +22,8 @@ Content-Type: application/json
 {
   "firstName": "ee22",
   "lastName": "ff22",
-  "email": "ee22@email.com"
+  "email": "ee11@email.com"
 }
+
+### DELTE Employee by id
+DELETE http://localhost:8080/api/employees/23
