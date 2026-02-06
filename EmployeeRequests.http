@@ -3,9 +3,9 @@ POST http://localhost:8080/api/employees
 Content-Type: application/json
 
 {
-  "firstName": "cccc",
-  "lastName": "dddd",
-  "email": "cccc@email.com"
+  "firstName": "eeee",
+  "lastName": "ffff",
+  "email": "eeee@email.com"
 }
 
 ### GET Employee by id
@@ -14,3 +14,13 @@ GET http://localhost:8080/api/employees/2
 
 ### GET all Employee
 GET http://localhost:8080/api/employees
+
+### PUT Employee
+PUT http://localhost:8080/api/employees/4
+Content-Type: application/json
+
+{
+  "firstName": "ee22",
+  "lastName": "ff22",
+  "email": "ee22@email.com"
+}
