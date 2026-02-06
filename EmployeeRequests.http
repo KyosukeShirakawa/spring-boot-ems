@@ -8,4 +8,5 @@ Content-Type: application/json
   "email": "cccc@email.com"
 }
 
-###
+### GET Employee by id
+GET http://localhost:8080/api/employees/2
